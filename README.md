@@ -1,6 +1,6 @@
 # Shahin Ghanbari
 
-**Dietary Data Analysis · Applied Machine Learning for Health**
+**Applied Machine Learning for Health | Nutrition & Population Health Research | MSc in Artificial Intelligence**
 
 I use Python to analyse dietary survey data and evaluate how prediction models can inform follow-up decisions.
 
