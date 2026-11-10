@@ -8,7 +8,7 @@ I use Python to analyse dietary survey data and evaluate how prediction models c
 
 | Project | Focus |
 | --- | --- |
-| [NDNS dietary research](https://github.com/Shahin-Ghanbari/NDNS-Dietary-Research) | Free sugar intake across survey periods and nutrient indicators associated with BMI-for-age in UK children. |
+| [NDNS dietary research](https://github.com/Shahin-Ghanbari/NDNS-Research-Overview) | Free sugar intake across survey periods and nutrient indicators associated with BMI-for-age in UK children. |
 | [Type 2 diabetes follow-up](https://github.com/Shahin-Ghanbari/Type-2-Diabetes-Follow-Up) | How dietary recall, non-laboratory inputs and model thresholds inform follow-up workload. |
 | [Dietary phenotyping](https://github.com/Shahin-Ghanbari/Dietary-Phenotyping) | How diet-only models perform across dietary patterns and how often they flag people for follow-up. |
 | [Diet-only multi-outcome prediction](https://github.com/Shahin-Ghanbari/Diet-Only-Multi-Label-Prediction-Using-a-Calibrated-Deep-Learning-Ensemble) | Calibrated models for hypertension, diabetes and thyroid dysfunction using NHANES dietary recalls. |
