@@ -1,13 +1,17 @@
 # Shahin Ghanbari
 
-I use Python to analyse dietary survey data and study how prediction models can inform follow-up decisions.
+**Dietary Data Analysis · Applied Machine Learning for Health**
+
+I use Python to analyse dietary survey data and evaluate how prediction models can inform follow-up decisions.
 
 ## Featured research
 
-1. **[NDNS dietary research](https://github.com/Shahin-Ghanbari/NDNS-Dietary-Research)** · I compare dietary-weighted free sugar, fructose, and sucrose intakes among children across two UK National Diet and Nutrition Survey periods. A separate analysis examines associations between nutrient-level dietary indicators and BMI-for-age in UK children.
-2. **[Type 2 diabetes follow-up prioritisation](https://github.com/Shahin-Ghanbari/Type-2-Diabetes-Follow-Up)** · Using NHANES dietary recalls and other non-laboratory information, I examine how model thresholds affect the number of people flagged for follow-up and how many diabetes cases those thresholds identify.
-3. **[Dietary phenotyping and cardiometabolic burden](https://github.com/Shahin-Ghanbari/Dietary-Phenotyping)** · I evaluate diet-only models across groups with different dietary patterns, including how calibration and flagging thresholds affect follow-up workload.
-4. **Diet-only multi-outcome prediction** · I use NHANES 24-hour dietary recalls to explore prediction of hypertension, diabetes, and thyroid dysfunction with a calibrated deep learning ensemble. [Research notebook and project guide](https://github.com/Shahin-Ghanbari/Diet-Only-Multi-Label-Prediction-Using-a-Calibrated-Deep-Learning-Ensemble)
+| Project | Focus |
+| --- | --- |
+| [NDNS dietary research](https://github.com/Shahin-Ghanbari/NDNS-Dietary-Research) | Free sugar intake across survey periods and nutrient indicators associated with BMI-for-age in UK children. |
+| [Type 2 diabetes follow-up](https://github.com/Shahin-Ghanbari/Type-2-Diabetes-Follow-Up) | How dietary recall, non-laboratory inputs and model thresholds inform follow-up workload. |
+| [Dietary phenotyping](https://github.com/Shahin-Ghanbari/Dietary-Phenotyping) | How diet-only models perform across dietary patterns and how often they flag people for follow-up. |
+| [Diet-only multi-outcome prediction](https://github.com/Shahin-Ghanbari/Diet-Only-Multi-Label-Prediction-Using-a-Calibrated-Deep-Learning-Ensemble) | Calibrated models for hypertension, diabetes and thyroid dysfunction using NHANES dietary recalls. |
 
 ## Other projects
 
