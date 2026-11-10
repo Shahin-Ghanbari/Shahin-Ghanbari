@@ -4,9 +4,9 @@ I use Python to analyse dietary survey data and study how prediction models can 
 
 ## Featured research
 
-1. **NDNS dietary research** · I compare dietary-weighted free sugar, fructose, and sucrose intakes among children across two UK National Diet and Nutrition Survey periods. A separate analysis examines associations between nutrient-level dietary indicators and BMI-for-age in UK children.
-2. **Type 2 diabetes follow-up prioritisation** · Using NHANES dietary recalls and other non-laboratory information, I examine how model thresholds affect the number of people flagged for follow-up and how many diabetes cases those thresholds identify.
-3. **Dietary phenotyping and cardiometabolic burden** · I evaluate diet-only models across groups with different dietary patterns, including how calibration and flagging thresholds affect follow-up workload.
+1. **[NDNS dietary research](https://github.com/Shahin-Ghanbari/NDNS-Dietary-Research)** · I compare dietary-weighted free sugar, fructose, and sucrose intakes among children across two UK National Diet and Nutrition Survey periods. A separate analysis examines associations between nutrient-level dietary indicators and BMI-for-age in UK children.
+2. **[Type 2 diabetes follow-up prioritisation](https://github.com/Shahin-Ghanbari/Type-2-Diabetes-Follow-Up)** · Using NHANES dietary recalls and other non-laboratory information, I examine how model thresholds affect the number of people flagged for follow-up and how many diabetes cases those thresholds identify.
+3. **[Dietary phenotyping and cardiometabolic burden](https://github.com/Shahin-Ghanbari/Dietary-Phenotyping)** · I evaluate diet-only models across groups with different dietary patterns, including how calibration and flagging thresholds affect follow-up workload.
 4. **Diet-only multi-outcome prediction** · I use NHANES 24-hour dietary recalls to explore prediction of hypertension, diabetes, and thyroid dysfunction with a calibrated deep learning ensemble. [Research notebook and project guide](https://github.com/Shahin-Ghanbari/Diet-Only-Multi-Label-Prediction-Using-a-Calibrated-Deep-Learning-Ensemble)
 
 ## Other projects
